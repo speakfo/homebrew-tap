@@ -1,6 +1,6 @@
 cask "ai-quota-studio" do
-  version "1.7"
-  sha256 "e285d88ee3eada88cdf1112a9eafe70cf2b38eff50df954b5483233f3b7c5dac"
+  version "1.8"
+  sha256 "3520bd1ac49d7ffcec486ffe685e7b3a911bcab993a124152f7822935e3e8aa5"
 
   url "https://github.com/speakfo/AI-Quota-Studio/releases/download/v#{version}/AI-Quota-Studio-#{version}.zip"
   name "AI Quota Studio"
